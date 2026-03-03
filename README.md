@@ -14,7 +14,8 @@ challenger2-data-science-LATAM-parte2/
 │       └── telecomx.csv          # Dataset original
 │
 ├── notebooks/
-│   └── 01_churn_prediction.ipynb # Notebook principal
+│   ├── 01_churn_prediction.ipynb # Notebook principal
+│   └── modelo_churn_campeon.pkl  # Modelo final seleccionado (Random Forest)
 │
 ├── pyproject.toml                # Configuración del proyecto (uv)
 ├── .gitignore
